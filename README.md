@@ -85,3 +85,6 @@ else:
 print("\nYour final stats:")
 print(f"GPA: {round(current_gpa, 2)}, Study Hours: {study_hours}, Social Points: {social_points}, Stress Level: {stress_level}")
 print("Ending:", ending)
+git add xavier_assignment_3.py
+git commit -m "Pass Test Case 1: Initial game setup with required variables"
+git push
